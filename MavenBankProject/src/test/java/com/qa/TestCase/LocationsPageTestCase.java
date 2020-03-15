@@ -24,6 +24,8 @@ public class LocationsPageTestCase extends TestBase {
 		
 		locationsPage =	new LocationsPage();
 		advancedPage=  new AdvancedPage();
+
+		// Rupa commit some changes in Location Page
 	}
 		
 	@Test(priority = 1)
