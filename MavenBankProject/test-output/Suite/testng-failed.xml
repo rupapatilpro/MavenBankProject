@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Bank Location Test Case(failed)">
+    <classes>
+      <class name="com.qa.TestCase.CitizenbankSearchPageTestCase">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="SearchTest"/>
+        </methods>
+      </class> <!-- com.qa.TestCase.CitizenbankSearchPageTestCase -->
+    </classes>
+  </test> <!-- Bank Location Test Case(failed) -->
+</suite> <!-- Failed suite [Suite] -->
